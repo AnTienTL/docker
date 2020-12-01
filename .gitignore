@@ -5,7 +5,6 @@
 .gitlab.yml
 cicd/
 k8s/
-README.md
 .gitlab-ci.yml
 Dockerfile
 
